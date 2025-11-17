@@ -1,0 +1,6 @@
+states:
+  taxi: 25cases
+  hotel: 4 cases 
+  person: 4 case + deja dans taxi = 5
+
+  set of states=  500
